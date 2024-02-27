@@ -1,7 +1,7 @@
 API
 ===
-Weather API
-===
+.. _Weather API:
+
 
 
 .. autosummary::
