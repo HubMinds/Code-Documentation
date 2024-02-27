@@ -30,5 +30,6 @@ Before writing any code, all libraries need to be installed:
 The first thing we need when using an API is the API key. As it is stored as an environmental variable in .env, we need to retrieve it. In this case, our API key is stored as "WEATHER_KEY" in the .env file:
 
 .. code-block:: python
+
    load_dotenv()
    api_key = os.getenv("WEATHER_KEY")
