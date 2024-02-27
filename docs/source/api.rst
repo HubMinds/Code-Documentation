@@ -1,6 +1,7 @@
 API
 ===
-
+Weather API
+===
 .. autosummary::
    :toctree: generated
 
